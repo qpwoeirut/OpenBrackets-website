@@ -128,7 +128,7 @@
 </footer>
 <script>
     const navbarHighlight = "{{ page.navbarHighlight }}";
-    if (navbarHighlight !== "") {
+    if (navbarHighlight !== "none") {
         document.getElementById(navbarHighlight + "-nav").classList.add("active");
         const dropdownButton = document.querySelector("#" + navbarHighlight + "-nav button.dropdown-toggle");
         if (dropdownButton) {
