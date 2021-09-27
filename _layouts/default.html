@@ -32,13 +32,13 @@
 </head>
 <body>
 <nav id="navbar" class="navbar navbar-expand-lg navbar-light sticky-top">
-    <a class="navbar-brand" href="/index.html"><img src="/assets/OpenBracketsLogo.jpg" height="100" width="100" alt="OpenBrackets Logo"></a>
+    <a class="navbar-brand" href="/"><img src="/assets/OpenBracketsLogo.jpg" height="100" width="100" alt="OpenBrackets Logo"></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
         <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
-            <li id="home-nav" class="nav-item active">
+            <li id="home-nav" class="nav-item">
                 <a class="nav-link" href="/">Home</a>
             </li>
             <li id="fall2021-nav" class="nav-item dropdown">
@@ -97,7 +97,7 @@
                     </a>
                 </div>
             </li>
-            <li id="hall-of-fame-nav" class="nav-item">
+            <li id="hallOfFame-nav" class="nav-item">
                 <a class="nav-link" href="/hallOfFame.html">Hall of Fame</a>
             </li>
             <!--        <li id="getInvolved-nav" class="nav-item">-->
@@ -126,6 +126,16 @@
         Safety Policy</a> | <a href="/studentInformationPolicy.html">Student Information Policy</a>
     </div>
 </footer>
+<script>
+    const navbarHighlight = "{{ page.navbarHighlight }}";
+    if (navbarHighlight !== "") {
+        document.getElementById(navbarHighlight + "-nav").classList.add("active");
+        const dropdownButton = document.querySelector("#" + navbarHighlight + "-nav button.dropdown-toggle");
+        if (dropdownButton) {
+            dropdownButton.classList.add("active");
+        }
+    }
+</script>
 </body>
 </html>
 
