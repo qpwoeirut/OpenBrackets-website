@@ -10,9 +10,9 @@
     <meta property="og:description" content="{{ page.description }}">
     <meta property="og:image" content="http://openbrackets.us/assets/OpenBracketsLogoTransparent.png">
     <meta property="og:site_name" content="OpenBrackets">
-    <meta property="og:title" content="{{ page.title}} | OpenBrackets">
+    <meta property="og:title" content="{{ page.title }} | OpenBrackets">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="http://openbrackets.us/{{ page.path }}">
+    <meta property="og:url" content="http://openbrackets.us{{ page.path }}">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:description" content="{{ page.description }}">
     <meta name="twitter:domain" content="openbrackets.us">
@@ -32,7 +32,7 @@
 </head>
 <body>
 <nav id="navbar" class="navbar navbar-expand-lg navbar-light sticky-top">
-    <a class="navbar-brand" href="/index.html"><img src="/assets/OpenBracketsLogo.jpg" height="100" width="100"></a>
+    <a class="navbar-brand" href="/index.html"><img src="/assets/OpenBracketsLogo.jpg" height="100" width="100" alt="OpenBrackets Logo"></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -64,33 +64,33 @@
                     </a>
                 </div>
             </li>
-            <li id="past-semesters-nav" class="nav-item dropdown">
+            <li id="pastSemesters-nav" class="nav-item dropdown">
                 <button class="dropdown-toggle nav-link" type="button" data-toggle="dropdown" aria-haspopup="true"
                         aria-expanded="false">
                     Past Semesters
                 </button>
                 <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
-                    <a class="nav-link dropdown-item" href="/pastSemesters/fall2020/summary.html">
+                    <a class="nav-link dropdown-item" href="/fall2020/summary.html">
                         <button class="dropdown-item" type="button">
                             Fall '20 Summary
                         </button>
                     </a>
-                    <a class="nav-link dropdown-item" href="/pastSemesters/fall2020/curriculum.html">
+                    <a class="nav-link dropdown-item" href="/fall2020/curriculum.html">
                         <button class="dropdown-item" type="button">
                             Fall '20 Curriculum
                         </button>
                     </a>
-                    <a class="nav-link dropdown-item" href="/pastSemesters/spring2021/summary.html">
+                    <a class="nav-link dropdown-item" href="/spring2021/summary.html">
                         <button class="dropdown-item" type="button">
                             Spring '21 Summary
                         </button>
                     </a>
-                    <a class="nav-link dropdown-item" href="/pastSemesters/spring2021/beginnerPython.html">
+                    <a class="nav-link dropdown-item" href="/spring2021/beginnerPython.html">
                         <button class="dropdown-item" type="button">
                             Spring '21 Beginner Python Curriculum
                         </button>
                     </a>
-                    <a class="nav-link dropdown-item" href="/pastSemesters/spring2021/intermediatePython.html">
+                    <a class="nav-link dropdown-item" href="/spring2021/intermediatePython.html">
                         <button class="dropdown-item" type="button">
                             Spring '21 Intermediate Python Curriculum
                         </button>
@@ -122,7 +122,7 @@
 </main>
 <footer id="footer" class="bg-light text-center text-lg-start">
     <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-        ©2021 OpenBrackets | <a href="/privacy.html">Privacy Policy</a> | <a href="/studentSafetyPolicy.html">Student
+        ©2021 OpenBrackets | <a href="/studentSafetyPolicy.html">Student
         Safety Policy</a> | <a href="/studentInformationPolicy.html">Student Information Policy</a>
     </div>
 </footer>
