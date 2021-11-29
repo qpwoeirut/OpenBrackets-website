@@ -1,5 +1,4 @@
 ---
-fjaoiwejfgoiawejgfawe jfiowaej foiawe jfawe f:AWEfAW:Ef:WAeF:wa:Egawegio jawoeif j
 layout: default
 title: About
 description: OpenBrackets is a program run by volunteer high school students from Seattle, the Bay Area, and New York.
@@ -17,356 +16,41 @@ navbarHighlight: about
 <h1 class="display-5 text-center">Meet the Team</h1>
 <div class="container-fluid">
     <div class="row row-cols-lg-3 row-cols-md-2 row-cols-1">
+        {% for item in site.data.team %}
         <div class="col mb-4">
             <div class="card h-100">
-                <img src="/assets/images/aimon.png" alt="image of Aimon" class="card-img-top">
+                <img src="/assets/images/{{ item.image }}" alt="image of {{ item.name }}" class="card-img-top">
                 <div class="card-body">
-                    <h4 class="card-title">Aimon Benfield-Chand</h4>
-                    <p class="card-text">Aimon is a graduate of Ingraham High School and a current freshman and
-                        computer science major at the University of Washington. Within CS, Aimon is most interested
-                        in Artificial Intelligence and Deep Learning, especially when applied to music and the arts.
-                        He has also completed two data science summer internships with DigiSignals Inc., where he
-                        helped report on affiliate marketing patterns and developed a system to capture trends in
-                        Name, Image, and Likeness data from across NCAA Athletics. Prior to joining OpenBrackets,
-                        Aimon organized a Covid-relief meal service for elderly and immunocompromised community
-                        members. In his free time, Aimon enjoys playing and listening to music, tossing a disc, and
-                        cooking.
-                    </p>
-                    <a href="https://www.linkedin.com/in/aimon-benfield-chand-3b7b90208/"
-                       class="btn btn-outline-secondary" target="_blank">LinkedIn </a></div>
-            </div>
-        </div>
-        <div class="col mb-4">
-            <div class="card h-100">
-                <img src="/assets/images/aidan.png" alt="image of Aidan" class="card-img-top">
-                <div class="card-body">
-                    <h4 class="card-title">Aidan Goeschel</h4>
-                    <p class="card-text">Aidan Goeschel is currently a senior at Ingraham High School. He has
-                        experience in Java and Python from taking AP computer science as well as an intro to
-                        computer science course. In his free time, Aidan enjoys playing guitar, golfing for fun, and
-                        competing on Ingraham’s own golf team. He is very excited to share the joy of programming by
-                        joining OpenBrackets as a teacher this fall.
-                    </p>
+                    <h4 class="card-title">{{ item.name }}</h4>
+                    <p class="card-text">{{ item.description }}</p>
+                    {% if item.linkedin %}
+                    <a href="{{ item.linkedin }}" class="btn btn-outline-secondary"
+                       target="_blank">LinkedIn </a>
+                    {% endif %}
                 </div>
             </div>
         </div>
-        <div class="col mb-4">
-            <div class="card h-100">
-                <img src="/assets/images/seth.png" alt="image of Seth" class="card-img-top">
-                <div class="card-body">
-                    <h4 class="card-title">Seth Johnson</h4>
-                    <p class="card-text">Seth Johnson is a senior at Ingraham High School. He has taken AP
-                        Computer Science and IB Computer Science. When it comes to
-                        CS, he is most interested in cyber security and software development. Outside of
-                        computer science related service, he was previously a volunteer at a food bank. In
-                        his free time, he really enjoys playing sports, watching sports, and listening to way
-                        too much music. He decided to join OpenBrackets because he believes in the
-                        importance of direct service when it comes to making a difference in one's
-                        community.
-                    </p>
-                    <!-- I can't find Seth's LinkedIn...-->
-                </div>
-            </div>
-        </div>
-        <div class="col mb-4">
-            <div class="card h-100">
-                <img src="/assets/images/rohan.png" alt="image of Rohan" class="card-img-top">
-                <div class="card-body">
-                    <h4 class="card-title">Rohan Kumar</h4>
-                    <p class="card-text">Rohan Kumar is a senior at Ingraham High School, where he has taken
-                        Java 1 and IB Computer Science. Outside of school, Rohan has
-                        learned Python and SQL, and is currently learning Go on Codecademy. As a programmer,
-                        Rohan enjoys building games in Java and has previously programmed his own versions
-                        of Yahtzee, Hangman, and a Roman Numerals calculator. Along with OpenBrackets, Rohan
-                        volunteers for an organization called Team Read. He also enjoys playing soccer,
-                        programming, and playing the piano in his free time.
-                    </p>
-                    <!-- I can't find Rohan's LinkedIn...-->
-                </div>
-            </div>
-        </div>
-        <div class="col mb-4">
-            <div class="card h-100">
-                <img src="/assets/images/stanley.jpg" alt="image of Stanley" class="card-img-top">
-                <div class="card-body">
-                    <h4 class="card-title">Stanley Zhong</h4>
-                    <p class="card-text"> Stanley Zhong is a junior at Gunn High School. He is
-                        well-versed in C++ and Python, and is also familiar with Java, HTML, CSS,
-                        JavaScript, and COBOL. Most of his knowledge is self-taught through
-                        collaborative projects. Last summer he built a rudimentary website of games with one
-                        of his friends. He is also ranked in the top 100 in the US on the competitive
-                        programming website Codeforces. As someone who was lucky enough to be introduced to
-                        programming at a young age, Stanley hopes to help other kids learn and benefit from
-                        programming.
-                    </p>
-                    <a href="https://www.linkedin.com/in/stanley-z-277440186/"
-                       class="btn btn-outline-secondary" target="_blank">LinkedIn </a></div>
-            </div>
-        </div>
-        <div class="col mb-4">
-            <div class="card h-100">
-                <img src="/assets/images/joseph.jpg" alt="image of Joseph" class="card-img-top">
-                <div class="card-body">
-                    <h4 class="card-title">Joseph Barrows</h4>
-                    <p class="card-text">Joseph Barrows is a senior at Ingraham High School. He has
-                        experience in Python and Swift and is familiar with HTML and CSS through taking
-                        various programming courses in school. Over the past few years he has also created
-                        numerous mobile games for the IOS app store. In his free time, Joseph loves to play
-                        soccer. He has also come to love the ability to build things through programming,
-                        which is why he is keen on helping other kids learn how to code.
-                    </p>
-                    <!-- I can't find Joseph's LinkedIn...-->
-                </div>
-            </div>
-        </div>
-        <div class="col mb-4">
-            <div class="card h-100">
-                <img src="/assets/images/sean.png" alt="image of Sean" class="card-img-top">
-                <div class="card-body">
-                    <h4 class="card-title">Sean Ozinsky</h4>
-                    <p class="card-text">Sean Ozinsky is currently a senior at Ingraham High School in
-                        Seattle, Washington. Sean has experience in Java, Python, and SQL from AP and IB
-                        computer science and his own studies, although he is most experienced in java.
-                        In his free time, Sean enjoys playing soccer and drawing. He decided to join
-                        OpenBrackets because he believes it is crucial to give as many people as
-                        possible exposure to computer programming so that they can be successful in the
-                        digital world that we live in.
-                    </p>
-                    <!-- I can't find Sean's LinkedIn...-->
-                </div>
-            </div>
-        </div>
-        <div class="col mb-4">
-            <div class="card h-100">
-                <img src="/assets/images/ashley.png" alt="image of Ashley" class="card-img-top">
-                <div class="card-body">
-                    <h4 class="card-title">Ashley Teofilo</h4>
-                    <p class="card-text">Ashley Teofilo is a graduate of Garfield High School, who
-                        began coding three years ago with Girls Who Code. Since then, she has interned at EY
-                        and taken AP Computer Science at her school to develop skills in Java, Python, HTML
-                        and CSS. Ashley’s interest in service began with her nonprofit Soccer Club which
-                        teaches low-income minorities about collegiate sports, combining both academics and
-                        soccer, to help many students get into college. Having benefited from similar
-                        volunteer programs, Ashley is excited to give back with OpenBrackets by teaching
-                        students about coding and its many career opportunities. In her free time, she likes
-                        to workout and play/coach soccer.
-                    </p>
-                    <a href="https://www.linkedin.com/in/ashley-teofilo-4bb3b1190/"
-                       class="btn btn-outline-secondary" target="_blank">LinkedIn </a></div>
-            </div>
-        </div>
-        <div class="col mb-4">
-            <div class="card h-100">
-                <img src="/assets/images/trisha.jpg" alt="image of Trisha" class="card-img-top">
-                <div class="card-body">
-                    <h4 class="card-title">Trisha Razdan</h4>
-                    <p class="card-text"> Trisha Razdan is a graduate of Palo Alto High School. She
-                        has experience in Java, Ruby, and Python from taking AP Computer Science in school,
-                        as well as other computer science courses previously. Last year, she created a
-                        website for the LEMO Foundation's Playmakers initiative to allow for outside
-                        sponsorship to support more kids. In her free time, she plays volleyball and binges
-                        The Office. Trisha has been around tech her whole life and hopes to bring that
-                        exposure to more kids from the Bay.
-                    </p>
-                    <a href="https://www.linkedin.com/in/trisha-razdan-8023881b0/"
-                       class="btn btn-outline-secondary" target="_blank">LinkedIn </a></div>
-            </div>
-        </div>
-        <div class="col mb-4">
-            <div class="card h-100">
-                <img src="/assets/images/katie.png" alt="image of Katie" class="card-img-top">
-                <div class="card-body">
-                    <h4 class="card-title">Katherine Cheng</h4>
-                    <p class="card-text"> Katherine Cheng is a graduate of Palo Alto High School.
-                        She has experience in Java through her AP Computer Science at school, and has taught
-                        beginning game development to elementary and middle school students. Through
-                        tutoring and working with several nonprofit organizations dedicated to helping low
-                        income students in the Bay Area, Katherine is always looking to help out members of
-                        the community. In her free time, she enjoys discovering new trails to run at with
-                        her family and friends.
-                    </p>
-                    <a href="https://www.linkedin.com/in/katherine-cheng-9708081aa/"
-                       class="btn btn-outline-secondary" target="_blank">LinkedIn </a></div>
-            </div>
-        </div>
-        <div class="col mb-4">
-            <div class="card h-100">
-                <img src="/assets/images/antonio.png" alt="image of Antonio" class="card-img-top">
-                <div class="card-body">
-                    <h4 class="card-title">Antonio Franco Laureano</h4>
-                    <p class="card-text">Antonio is a senior at Ingraham High School. He has experience in
-                        Python and Java through his AP Computer Science and Data Science courses. In his
-                        free time, Antonio enjoys being active, listening to music, and binging tv-shows.
-                        Antonio is enthusiastic about helping others discover new passions and has helped
-                        manage soccer camps in the past. Through OpenBrackets, he hopes to help others
-                        discover new passions within computer science.
-                    </p>
-                    <!-- I can't find Antonio's LinkedIn...-->
-                </div>
-            </div>
-        </div>
-        <div class="col mb-4">
-            <div class="card h-100">
-                <img src="/assets/images/alina.jpg" alt="image of Alina" class="card-img-top">
-                <div class="card-body">
-                    <h4 class="card-title">Alina Li</h4>
-                    <p class="card-text">Alina is a junior at Gunn High School. She enjoys programming,
-                        and believes that everyone should have access to tech education. She has experience
-                        coding in Python and Java, and as well as creating web applications. Her passions
-                        include teaching, reading, and sewing. She's excited to help out OpenBrackets as a
-                        teacher and curriculum developer.
-                    </p>
-                    <a href="https://www.linkedin.com/in/alina-li-641b29202/"
-                       class="btn btn-outline-secondary" target="_blank">LinkedIn </a></div>
-            </div>
-        </div>
-        <div class="col mb-4">
-            <div class="card h-100">
-                <img src="/assets/images/andrew.png" alt="image of Andrew" class="card-img-top">
-                <div class="card-body">
-                    <h4 class="card-title">Andrew Li</h4>
-                    <p class="card-text"> Andrew Li is a graduate of Palo Alto High School. He has
-                        experience in Python and Java and has taken the AP Computer Science, as well as
-                        Functional and Object Oriented Programming. He has created a machine learning
-                        project which aims to predict the results of the annual collegiate basketball March
-                        Madness tournament and is mentored by a computer scientist with a Stanford Ph.D.
-                        Andrew likes to spend his free time playing basketball and tutoring others, which
-                        drove him to join OpenBrackets.
-                    </p>
-                    <a href="https://www.linkedin.com/in/andrew-li-b5969b18a/"
-                       class="btn btn-outline-secondary" target="_blank">LinkedIn </a></div>
-            </div>
-        </div>
-        <div class="col mb-4">
-            <div class="card h-100">
-                <img src="/images/serena.jpg" alt="image of Serena" class="card-img-top">
-                <div class="card-body">
-                    <h4 class="card-title">Serena Li</h4>
-                    <p class="card-text">Serena Li is a graduate of Gunn High School. She has taken AP
-                        Computer Science, a few dual enrollment CS classes, and has experience with Python,
-                        Java, C++, etc. She was the lead director of GunnHacks 7.0, programming lead on her
-                        robotics team, and president of Gunn's computer science club.
-                    </p>
-                    <a href="https://www.linkedin.com/in/serenawli/"
-                       class="btn btn-outline-secondary" target="_blank">LinkedIn </a></div>
-            </div>
-        </div>
-        <div class="col mb-4">
-            <div class="card h-100">
-                <img src="/assets/images/thomas.jpg" alt="image of Thomas" class="card-img-top">
-                <div class="card-body">
-                    <h4 class="card-title">Thomas McGall</h4>
-                    <p class="card-text"> Thomas McGall is a graduate of Palo Alto High School. He has
-                        experience with Python, Java, and JavaScript. He was the Lead Director of PalyHacks, a
-                        Palo Alto based hackathon, and has collaborated with Palantir, Balsamiq, and other
-                        industry leaders to bring educational opportunities to high schoolers in the Bay
-                        Area. Thomas believes in learning through creation and wants to help other students
-                        discover computer science using this philosophy.
-                    </p>
-                    <a href="https://www.linkedin.com/in/thomas-mcgall-635422160/"
-                       class="btn btn-outline-secondary" target="_blank">LinkedIn </a></div>
-            </div>
-        </div>
+        {% endfor %}
     </div>
 </div>
 <br> <br> <!-- Title for Mentor Cards -->
 <h1 class="display-5 text-center">Our Advisors</h1>
 <div class="container-fluid">
     <div class="row row-cols-lg-3 row-cols-md-2 row-cols-1">
+        {% for item in site.data.advisors %}
         <div class="col mb-4">
             <div class="card h-100">
-                <img src="/assets/images/raj.png" alt="image of Rajesh" class="card-img-top">
+                <img src="/assets/images/{{ item.image }}" alt="image of {{ item.name }}" class="card-img-top">
                 <div class="card-body">
-                    <h4 class="card-title">Rajesh Razdan</h4>
-                    <p class="card-text"> Rajesh is a software product executive with a passion for
-                        improving healthcare, closing the digital divide, and helping usher diversity in the
-                        technology industry. Rajesh earned his bachelors degree in computer science and
-                        engineering from Mysore University in India and currently serves as VP of product at
-                        Castlight Health.
-                    </p>
-                    <a href="https://www.linkedin.com/in/rajrazdan/" class="btn btn-outline-secondary"
-                       target="_blank">LinkedIn </a></div>
-            </div>
-        </div>
-        <div class="col mb-4">
-            <div class="card h-100">
-                <img src="/assets/images/vega.jpg" alt="image of Vega" class="card-img-top">
-                <div class="card-body">
-                    <h4 class="card-title">Vega Shah</h4>
-                    <p class="card-text"> Vega is a scientist in the field of biotechnology software in the
-                        Bay Area. She loves organizing large datasets into beautiful visualizations with the
-                        use of programming languages like Python, R, and SQL. Vega has a PhD in genomics from
-                        University of Washington and a bachelor of science from UC Berkeley. Her other
-                        passions are climbing rocks, hiking and ping pong. Vega believes that everyone
-                        should have access to technology and the barriers can be overcome with education.
-                    </p>
-                    <a href="https://www.linkedin.com/in/vegashah/" class="btn btn-outline-secondary"
-                       target="_blank">LinkedIn </a></div>
-            </div>
-        </div>
-        <div class="col mb-4">
-            <div class="card h-100">
-                <img src="/assets/images/masa.png" alt="image of Masa" class="card-img-top">
-                <div class="card-body">
-                    <h4 class="card-title">Masatoshi Tanida</h4>
-                    <p class="card-text"> Masatoshi Tanida is a software engineer with over a decade of
-                        Industry experience in a variety of domains, including Scientific Computing,
-                        Wireless, Health, and Automotive, and he is currently employed as a software
-                        engineer at an Autonomous Vehicle startup. He holds a B.S. and M.S. in computer
-                        science from UC San Diego. Masatoshi believes that high quality education should be
-                        available to students of all income levels and backgrounds.
-                    </p>
-                    <a href="https://www.linkedin.com/in/masatoshi-tanida/"
-                       class="btn btn-outline-secondary" target="_blank">LinkedIn </a></div>
-            </div>
-        </div>
-        <div class="col mb-4">
-            <div class="card h-100">
-                <img src="/assets/images/nan.jpg" alt="image of Nan" class="card-img-top">
-                <div class="card-body">
-                    <h4 class="card-title">Nan Zhong</h4>
-                    <p class="card-text"> Nan Zhong is currently a Software Engineering Manager at Google.
-                        Previously he co-founded two startups, created the #1 ranked communication app on
-                        Android (featured by Fortune and Amazing Android Apps for Dummies), and raised $10M
-                        in venture funding. Before that, he led the team that built AWS's Elastic Load
-                        Balancing service. He holds a Master's degree in Computer Science from the
-                        University of Illinois at Urbana-Champaign. He is a passionate believer of using
-                        education to promote equality.
-                    </p>
-                    <a href="https://www.linkedin.com/in/nanzhong/" class="btn btn-outline-secondary"
-                       target="_blank">LinkedIn </a></div>
-            </div>
-        </div>
-        <div class="col mb-4">
-            <div class="card h-100">
-                <img src="/assets/images/darach.jpg" alt="image of Darach" class="card-img-top">
-                <div class="card-body">
-                    <h4 class="card-title">Darach Miller</h4>
-                    <p class="card-text">Darach works as a postdoctoral researcher at SLAC/Stanford, using computers
-                        to automate bioinformatic pipelines and map viral-human protein-protein interaction
-                        networks. He's previously trained and worked as a researcher and teacher at UC Davis, New
-                        York University, the Davis Bike Collective, and with Software Carpentry. Darach strongly
-                        believes that broad access to an empowering understanding of computer programming is key to
-                        developing tech for the public good.
-                    </p>
+                    <h4 class="card-title">{{ item.name }}</h4>
+                    <p class="card-text">{{ item.description }}</p>
+                    {% if item.linkedin %}
+                        <a href="{{ item.linkedin }}" class="btn btn-outline-secondary"
+                           target="_blank">LinkedIn </a>
+                    {% endif %}
                 </div>
             </div>
         </div>
-        <div class="col mb-4">
-            <div class="card h-100">
-                <img src="/assets/images/rachel.jpg" alt="image of Rachel" class="card-img-top">
-                <div class="card-body">
-                    <h4 class="card-title">Rachel Gollub</h4>
-                    <p class="card-text"> Rachel Gollub is Vice President of Benefitter Technology at
-                        UnitedHealthcare. She has founded a number of startups (including co-founding
-                        Benefitter), and has also worked in engineering at Stanford University and Sun
-                        Microsystems. She has degrees in computer science and Russian literature from
-                        Caltech, and a M.A. in military history from American Military University. Rachel is
-                        an advocate for inclusion and equity in education and hiring.
-                    </p>
-                    <a href="https://www.linkedin.com/in/rachelgollub/" class="btn btn-outline-secondary"
-                       target="_blank">LinkedIn </a></div>
-            </div>
-        </div>
+        {% endfor %}
     </div>
 </div>

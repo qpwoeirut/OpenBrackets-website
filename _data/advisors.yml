@@ -1,0 +1,24 @@
+- name: Rajesh Razdan
+  description: Rajesh is a software product executive with a passion for improving healthcare, closing the digital divide, and helping usher diversity in the technology industry. Rajesh earned his bachelors degree in computer science and engineering from Mysore University in India and currently serves as VP of product at Castlight Health.
+  image: raj.png
+  linkedin: https://www.linkedin.com/in/rajrazdan/
+- name: Vega Shah
+  description: Vega is a scientist in the field of biotechnology software in the Bay Area. She loves organizing large datasets into beautiful visualizations with the use of programming languages like Python, R, and SQL. Vega has a PhD in genomics from University of Washington and a bachelor of science from UC Berkeley. Her other passions are climbing rocks, hiking and ping pong. Vega believes that everyone should have access to technology and the barriers can be overcome with education.
+  image: vega.jpg
+  linkedin: https://www.linkedin.com/in/vegashah/
+- name: Masatoshi Tanida
+  description: Masatoshi Tanida is a software engineer with over a decade of Industry experience in a variety of domains, including Scientific Computing, Wireless, Health, and Automotive, and he is currently employed as a software engineer at an Autonomous Vehicle startup. He holds a B.S. and M.S. in computer science from UC San Diego. Masatoshi believes that high quality education should be available to students of all income levels and backgrounds.
+  image: masa.png
+  linkedin: https://www.linkedin.com/in/masatoshi-tanida/
+- name: Nan Zhong
+  description: "Nan Zhong is currently a Software Engineering Manager at Google. Previously he co-founded two startups, created the #1 ranked communication app on Android (featured by Fortune and Amazing Android Apps for Dummies), and raised $10M in venture funding. Before that, he led the team that built AWS's Elastic Load Balancing service. He holds a Master's degree in Computer Science from the University of Illinois at Urbana-Champaign. He is a passionate believer of using education to promote equality."
+  image: nan.jpg
+  linkedin: https://www.linkedin.com/in/nanzhong/
+- name: Darach Miller
+  description: Darach works as a postdoctoral researcher at SLAC/Stanford, using computers to automate bioinformatic pipelines and map viral-human protein-protein interaction networks. He's previously trained and worked as a researcher and teacher at UC Davis, New York University, the Davis Bike Collective, and with Software Carpentry. Darach strongly believes that broad access to an empowering understanding of computer programming is key to developing tech for the public good.
+  image: darach.jpg
+  linkedin:
+- name: Rachel Gollub
+  description: Rachel Gollub is Vice President of Benefitter Technology at UnitedHealthcare. She has founded a number of startups (including co-founding Benefitter), and has also worked in engineering at Stanford University and Sun Microsystems. She has degrees in computer science and Russian literature from Caltech, and a M.A. in military history from American Military University. Rachel is an advocate for inclusion and equity in education and hiring.
+  image: rachel.jpg
+  linkedin: https://www.linkedin.com/in/rachelgollub/
