@@ -1,3 +1,4 @@
 exclude:
   - .idea
-  - /images/*0.*
+  - CNAME
+  - README.md
