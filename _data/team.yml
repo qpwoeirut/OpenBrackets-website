@@ -42,10 +42,6 @@
   description: Antonio is a senior at Ingraham High School. He has experience in Python and Java through his AP Computer Science and Data Science courses. In his free time, Antonio enjoys being active, listening to music, and binging tv-shows. Antonio is enthusiastic about helping others discover new passions and has helped manage soccer camps in the past. Through OpenBrackets, he hopes to help others discover new passions within computer science.
   image: antonio.png
   linkedin:
-- name: Alina Li
-  description: Alina is a junior at Gunn High School. She enjoys programming, and believes that everyone should have access to tech education. She has experience coding in Python and Java, and as well as creating web applications. Her passions include teaching, reading, and sewing. She's excited to help out OpenBrackets as a teacher and curriculum developer.
-  image: alina.jpg
-  linkedin: https://www.linkedin.com/in/alina-li-641b29202/
 - name: Andrew Li
   description: Andrew Li is a graduate of Palo Alto High School. He has experience in Python and Java and has taken the AP Computer Science, as well as Functional and Object Oriented Programming. He has created a machine learning project which aims to predict the results of the annual collegiate basketball March Madness tournament and is mentored by a computer scientist with a Stanford Ph.D. Andrew likes to spend his free time playing basketball and tutoring others, which drove him to join OpenBrackets.
   image: andrew.png
