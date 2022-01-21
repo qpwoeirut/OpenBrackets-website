@@ -43,3 +43,16 @@ nav#navbar {
     padding: 1rem;
 }
 
+.navbar-nav li:hover > ul.dropdown-menu {
+    display: block;
+    margin: 0;
+}
+.dropdown-submenu {
+    position:relative;
+}
+.dropdown-submenu>.dropdown-menu {
+    top:0;
+    /*left:-100%;*/
+    left:-10rem; /* 10rem is the min-width of dropdown-menu */
+    margin-top:-6px;
+}
