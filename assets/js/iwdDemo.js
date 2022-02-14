@@ -7,21 +7,25 @@ div.style.position = "absolute";
 document.body.appendChild(div);
 
 let x = 0, y = 0;
-let dx = Math.random() * 3, dy = Math.random() * 3;
+let dx = 1 + Math.random() * 3, dy = 1 + Math.random() * 3;
 window.setInterval(function() {
     x += dx;
     y += dy;
-    // dx += (Math.random() - 0.5) * 0.5;
-    // dy += (Math.random() - 0.5) * 0.5;
+    if (Math.abs(dx) >= 1) {
+        dx *= 0.9995;
+    }
+    if (Math.abs(dy) >= 1) {
+        dy *= 0.9995;
+    }
 
     div.style.left = x + "px";
     div.style.top = y + "px";
 
     const position = div.getBoundingClientRect();
-    if (position.left <= 0 || position.right >= window.innerWidth) {
+    if (position.left + dx <= 0 || position.right + dx >= window.innerWidth) {
         dx *= -1;
     }
-    if (position.top <= 0 || position.bottom >= window.innerHeight) {
+    if (position.top + dy <= 0 || position.bottom + dy >= window.innerHeight) {
         dy *= -1;
     }
 }, 10);
