@@ -58,3 +58,7 @@
   description: Thomas McGall is a graduate of Palo Alto High School. He has experience with Python, Java, and JavaScript. He was the Lead Director of PalyHacks, a Palo Alto based hackathon, and has collaborated with Palantir, Balsamiq, and other industry leaders to bring educational opportunities to high schoolers in the Bay Area. Thomas believes in learning through creation and wants to help other students discover computer science using this philosophy.
   image: thomas.jpg
   linkedin: https://www.linkedin.com/in/thomas-mcgall-635422160/
+- name: Matthew Grupenhoff
+  description: Matthew Grupenhoff is a senior at Gunn High School. He typically uses Python, C, and Assembly for most of his recent projects, and also knows Javascript, HTML/CSS, Java, and Scheme. He is a fan of security and cryptography and enjoys looking for security holes in software and exploring dark corners of cryptography. Near the beginning of the COVID-19 pandemic, he began teaching programming to his cousin over video conference, and loves being able to reach a wider group of students with OpenBrackets.
+  image: matthew.jpg
+  linkedin:
