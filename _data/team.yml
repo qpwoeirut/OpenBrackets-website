@@ -1,3 +1,27 @@
+- name: Aidan Goeschel
+  description: Aidan Goeschel is currently a senior at Ingraham High School. He has experience in Java and Python from taking AP computer science as well as an intro to computer science course. In his free time, Aidan enjoys playing guitar, golfing for fun, and competing on Ingraham’s own golf team. He is very excited to share the joy of programming by joining OpenBrackets as a teacher this fall.
+  image: aidan.png
+  linkedin:
+- name: Aimon Benfield-Chand
+  description: Aimon is a graduate of Ingraham High School and a current freshman and computer science major at the University of Washington. Within CS, Aimon is most interested in Artificial Intelligence and Deep Learning, especially when applied to music and the arts. He has also completed two data science summer internships with DigiSignals Inc., where he helped report on affiliate marketing patterns and developed a system to capture trends in Name, Image, and Likeness data from across NCAA Athletics. Prior to joining OpenBrackets, Aimon organized a Covid-relief meal service for elderly and immunocompromised community members. In his free time, Aimon enjoys playing and listening to music, tossing a disc, and cooking.
+  image: aimon.png
+  linkedin: https://www.linkedin.com/in/aimon-benfield-chand-3b7b90208/
+- name: Alina Lari
+  description: Alina Lari is a Junior at Gunn High School. She enjoys learning new things and coding in different languages such as Python and Java. She is passionate about social justice and bringing change and equal opportunities to the world of computer science. Alina has been an active member of Major League Hacking for +5 years and has loved to compete in various hacking competitions ever since. In her free time, she enjoys playing basketball and practicing the electric guitar. Through OpenBrackets, Alina hopes to expand the computer science community helping others share the joy of coding.
+  image: alina.jpg
+  linkedin:
+- name: Andrew Li
+  description: Andrew Li is a graduate of Palo Alto High School. He has experience in Python and Java and has taken the AP Computer Science, as well as Functional and Object Oriented Programming. He has created a machine learning project which aims to predict the results of the annual collegiate basketball March Madness tournament and is mentored by a computer scientist with a Stanford Ph.D. Andrew likes to spend his free time playing basketball and tutoring others, which drove him to join OpenBrackets.
+  image: andrew.png
+  linkedin: https://www.linkedin.com/in/andrew-li-b5969b18a/
+- name: Antonio Franco Laureano
+  description: Antonio is a senior at Ingraham High School. He has experience in Python and Java through his AP Computer Science and Data Science courses. In his free time, Antonio enjoys being active, listening to music, and binging tv-shows. Antonio is enthusiastic about helping others discover new passions and has helped manage soccer camps in the past. Through OpenBrackets, he hopes to help others discover new passions within computer science.
+  image: antonio.png
+  linkedin:
+- name: Ashley Teofilo
+  description: Ashley Teofilo is a graduate of Garfield High School, who began coding three years ago with Girls Who Code. Since then, she has interned at EY and taken AP Computer Science at her school to develop skills in Java, Python, HTML and CSS. Ashley’s interest in service began with her nonprofit Soccer Club which teaches low-income minorities about collegiate sports, combining both academics and soccer, to help many students get into college. Having benefited from similar volunteer programs, Ashley is excited to give back with OpenBrackets by teaching students about coding and its many career opportunities. In her free time, she likes to workout and play/coach soccer.
+  image: ashley.png
+  linkedin: https://www.linkedin.com/in/ashley-teofilo-4bb3b1190/
 - name: Ayush Agarwal
   description: Ayush Agarwal is a Freshman at Gunn High School. He generally codes in Java, HTML, CSS, and JavaScript. He is mostly self taught using projects to help guide learning which have solidified his understanding in these languages. During summer break, he created a sudoku puzzle app using Java. He decided to join OpenBrackets this fall because he believes that all kids should have equal access to careers and knowledge in computer science.
   image: ayush.png
@@ -6,59 +30,39 @@
   description: Joseph Barrows is a senior at Ingraham High School. He has experience in Python and Swift and is familiar with HTML and CSS through taking various programming courses in school. Over the past few years he has also created numerous mobile games for the IOS app store. In his free time, Joseph loves to play soccer. He has also come to love the ability to build things through programming, which is why he is keen on helping other kids learn how to code.
   image: joseph.jpg
   linkedin:
+- name: Katherine Cheng
+  description: Katherine Cheng is a graduate of Palo Alto High School. She has experience in Java through her AP Computer Science at school, and has taught beginning game development to elementary and middle school students. Through tutoring and working with several nonprofit organizations dedicated to helping low income students in the Bay Area, Katherine is always looking to help out members of the community. In her free time, she enjoys discovering new trails to run at with her family and friends.
+  image: katie.png
+  linkedin: https://www.linkedin.com/in/katherine-cheng-9708081aa/
 - name: Kevin Chan
   description: Kevin is currently a senior at Henry M. Gunn High School in the Bay Area. He enjoys solving practical and theoretical challenges using his programming skills. He is experienced in Java, Python, MATLAB, and C++. He had applied his skills at his summer internships and extracurricular projects. Within CS, Kevin has most interests in Quantum Computing and Mixed Reality. Before joining OpenBrackets, Kevin has taught programming at his school and StreetsCode Academy. Aware of the digital divide in the Bay Area, Kevin joined OpenBrackets and is determined to use his experience in programming and teaching to help underserved students in marginalized communities.
   image: tse_kai_chan.jpg
   linkedin: https://www.linkedin.com/in/tsekaichan/
-- name: Aidan Goeschel
-  description: Aidan Goeschel is currently a senior at Ingraham High School. He has experience in Java and Python from taking AP computer science as well as an intro to computer science course. In his free time, Aidan enjoys playing guitar, golfing for fun, and competing on Ingraham’s own golf team. He is very excited to share the joy of programming by joining OpenBrackets as a teacher this fall.
-  image: aidan.png
-  linkedin:
-- name: Seth Johnson
-  description: Seth Johnson is a senior at Ingraham High School. He has taken AP Computer Science and IB Computer Science. When it comes to CS, he is most interested in cyber security and software development. Outside of computer science related service, he was previously a volunteer at a food bank. In his free time, he really enjoys playing sports, watching sports, and listening to way too much music. He decided to join OpenBrackets because he believes in the importance of direct service when it comes to making a difference in one's community.
-  image: seth.png
+- name: Matthew Grupenhoff
+  description: Matthew Grupenhoff is a senior at Gunn High School. He typically uses Python, C, and Assembly for most of his recent projects, and also knows Javascript, HTML/CSS, Java, and Scheme. He is a fan of security and cryptography and enjoys looking for security holes in software and exploring dark corners of cryptography. Near the beginning of the COVID-19 pandemic, he began teaching programming to his cousin over video conference, and loves being able to reach a wider group of students with OpenBrackets.
+  image: matthew.jpg
   linkedin:
 - name: Rohan Kumar
   description: Rohan Kumar is a senior at Ingraham High School, where he has taken Java 1 and IB Computer Science. Outside of school, Rohan has learned Python and SQL, and is currently learning Go on Codecademy. As a programmer, Rohan enjoys building games in Java and has previously programmed his own versions of Yahtzee, Hangman, and a Roman Numerals calculator. Along with OpenBrackets, Rohan volunteers for an organization called Team Read. He also enjoys playing soccer, programming, and playing the piano in his free time.
   image: rohan.png
   linkedin:
+- name: Seth Johnson
+  description: Seth Johnson is a senior at Ingraham High School. He has taken AP Computer Science and IB Computer Science. When it comes to CS, he is most interested in cyber security and software development. Outside of computer science related service, he was previously a volunteer at a food bank. In his free time, he really enjoys playing sports, watching sports, and listening to way too much music. He decided to join OpenBrackets because he believes in the importance of direct service when it comes to making a difference in one's community.
+  image: seth.png
+  linkedin:
 - name: Seth Ozinsky
   description: Sean Ozinsky is currently a senior at Ingraham High School in Seattle, Washington. Sean has experience in Java, Python, and SQL from AP and IB computer science and his own studies, although he is most experienced in java. In his free time, Sean enjoys playing soccer and drawing. He decided to join OpenBrackets because he believes it is crucial to give as many people as possible exposure to computer programming so that they can be successful in the digital world that we live in.
   image: sean.png
   linkedin:
-- name: Trisha Razdan
-  description: Trisha Razdan is a graduate of Palo Alto High School. She has experience in Java, Ruby, and Python from taking AP Computer Science in school, as well as other computer science courses previously. Last year, she created a website for the LEMO Foundation's Playmakers initiative to allow for outside sponsorship to support more kids. In her free time, she plays volleyball and binges The Office. Trisha has been around tech her whole life and hopes to bring that exposure to more kids from the Bay.
-  image: trisha.jpg
-  linkedin: https://www.linkedin.com/in/trisha-razdan-8023881b0/
-- name: Ashley Teofilo
-  description: Ashley Teofilo is a graduate of Garfield High School, who began coding three years ago with Girls Who Code. Since then, she has interned at EY and taken AP Computer Science at her school to develop skills in Java, Python, HTML and CSS. Ashley’s interest in service began with her nonprofit Soccer Club which teaches low-income minorities about collegiate sports, combining both academics and soccer, to help many students get into college. Having benefited from similar volunteer programs, Ashley is excited to give back with OpenBrackets by teaching students about coding and its many career opportunities. In her free time, she likes to workout and play/coach soccer.
-  image: ashley.png
-  linkedin: https://www.linkedin.com/in/ashley-teofilo-4bb3b1190/
 - name: Stanley Zhong
   description: Stanley Zhong is a junior at Gunn High School. He is well-versed in C++ and Python, and is also familiar with Java, HTML, CSS, JavaScript, COBOL, and Scheme. Most of his knowledge is self-taught through collaborative projects. Last summer he built a rudimentary website of games with one of his friends. He is also ranked in the top 100 in the US on the competitive programming website Codeforces. As someone who was lucky enough to be introduced to programming at a young age, Stanley hopes to help other kids learn and benefit from programming.
   image: stanley.jpg
   linkedin:
-- name: Aimon Benfield-Chand
-  description: Aimon is a graduate of Ingraham High School and a current freshman and computer science major at the University of Washington. Within CS, Aimon is most interested in Artificial Intelligence and Deep Learning, especially when applied to music and the arts. He has also completed two data science summer internships with DigiSignals Inc., where he helped report on affiliate marketing patterns and developed a system to capture trends in Name, Image, and Likeness data from across NCAA Athletics. Prior to joining OpenBrackets, Aimon organized a Covid-relief meal service for elderly and immunocompromised community members. In his free time, Aimon enjoys playing and listening to music, tossing a disc, and cooking.
-  image: aimon.png
-  linkedin: https://www.linkedin.com/in/aimon-benfield-chand-3b7b90208/
-- name: Katherine Cheng
-  description: Katherine Cheng is a graduate of Palo Alto High School. She has experience in Java through her AP Computer Science at school, and has taught beginning game development to elementary and middle school students. Through tutoring and working with several nonprofit organizations dedicated to helping low income students in the Bay Area, Katherine is always looking to help out members of the community. In her free time, she enjoys discovering new trails to run at with her family and friends.
-  image: katie.png
-  linkedin: https://www.linkedin.com/in/katherine-cheng-9708081aa/
-- name: Antonio Franco Laureano
-  description: Antonio is a senior at Ingraham High School. He has experience in Python and Java through his AP Computer Science and Data Science courses. In his free time, Antonio enjoys being active, listening to music, and binging tv-shows. Antonio is enthusiastic about helping others discover new passions and has helped manage soccer camps in the past. Through OpenBrackets, he hopes to help others discover new passions within computer science.
-  image: antonio.png
-  linkedin:
-- name: Andrew Li
-  description: Andrew Li is a graduate of Palo Alto High School. He has experience in Python and Java and has taken the AP Computer Science, as well as Functional and Object Oriented Programming. He has created a machine learning project which aims to predict the results of the annual collegiate basketball March Madness tournament and is mentored by a computer scientist with a Stanford Ph.D. Andrew likes to spend his free time playing basketball and tutoring others, which drove him to join OpenBrackets.
-  image: andrew.png
-  linkedin: https://www.linkedin.com/in/andrew-li-b5969b18a/
 - name: Thomas McGall
   description: Thomas McGall is a graduate of Palo Alto High School. He has experience with Python, Java, and JavaScript. He was the Lead Director of PalyHacks, a Palo Alto based hackathon, and has collaborated with Palantir, Balsamiq, and other industry leaders to bring educational opportunities to high schoolers in the Bay Area. Thomas believes in learning through creation and wants to help other students discover computer science using this philosophy.
   image: thomas.jpg
   linkedin: https://www.linkedin.com/in/thomas-mcgall-635422160/
-- name: Matthew Grupenhoff
-  description: Matthew Grupenhoff is a senior at Gunn High School. He typically uses Python, C, and Assembly for most of his recent projects, and also knows Javascript, HTML/CSS, Java, and Scheme. He is a fan of security and cryptography and enjoys looking for security holes in software and exploring dark corners of cryptography. Near the beginning of the COVID-19 pandemic, he began teaching programming to his cousin over video conference, and loves being able to reach a wider group of students with OpenBrackets.
-  image: matthew.jpg
-  linkedin:
+- name: Trisha Razdan
+  description: Trisha Razdan is a graduate of Palo Alto High School. She has experience in Java, Ruby, and Python from taking AP Computer Science in school, as well as other computer science courses previously. Last year, she created a website for the LEMO Foundation's Playmakers initiative to allow for outside sponsorship to support more kids. In her free time, she plays volleyball and binges The Office. Trisha has been around tech her whole life and hopes to bring that exposure to more kids from the Bay.
+  image: trisha.jpg
+  linkedin: https://www.linkedin.com/in/trisha-razdan-8023881b0/
