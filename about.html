@@ -24,7 +24,7 @@ navbarHighlight: about
                     <h4 class="card-title">{{ item.name }}</h4>
                     <p class="card-text">{{ item.description }}</p>
                     {% if item.linkedin %}
-                        {% if item.name = "Ian Cheung" %}
+                        {% if item.name == "Ian Cheung" %}
                             <a href="{{ item.linkedin }}" class="btn btn-outline-secondary"
                                target="_blank">Website </a>
                         {% endif %}
@@ -49,7 +49,7 @@ navbarHighlight: about
                     <h4 class="card-title">{{ item.name }}</h4>
                     <p class="card-text">{{ item.description }}</p>
                     {% if item.linkedin %}
-                        {% if item.name = "Ian Cheung" %}
+                        {% if item.name == "Ian Cheung" %}
                             <a href="{{ item.linkedin }}" class="btn btn-outline-secondary"
                                target="_blank">Website </a>
                         {% endif %}
