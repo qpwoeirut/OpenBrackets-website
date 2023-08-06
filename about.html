@@ -28,8 +28,11 @@ navbarHighlight: about
                             <a href="{{ item.linkedin }}" class="btn btn-outline-secondary"
                                target="_blank">Website </a>
                         {% endif %}
-                         <a href="{{ item.linkedin }}" class="btn btn-outline-secondary"
-                               target="_blank">Linkedin </a>
+                        {% if item.name != "Ian Cheung" %}
+                            <a href="{{ item.linkedin }}" class="btn btn-outline-secondary"
+                               target="_blank">Linkedin </a>>
+                        {% endif %}
+                         
                     {% endif %}
                 </div>
             </div>
@@ -53,8 +56,10 @@ navbarHighlight: about
                             <a href="{{ item.linkedin }}" class="btn btn-outline-secondary"
                                target="_blank">Website </a>
                         {% endif %}
-                         <a href="{{ item.linkedin }}" class="btn btn-outline-secondary"
-                               target="_blank">Linkedin </a>
+                        {% if item.name != "Ian Cheung" %}
+                            <a href="{{ item.linkedin }}" class="btn btn-outline-secondary"
+                               target="_blank">Linkedin </a>>
+                        {% endif %}
                     {% endif %}
                 </div>
             </div>
