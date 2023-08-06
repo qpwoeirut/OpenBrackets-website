@@ -28,8 +28,8 @@
   linkedin:
 - name: Ian Cheung
   description: Ian Cheung is presently a Junior at Gunn High School. He possesses experience in programming languages like HTML, CSS, JavaScript, Java, and Python and has taken AP Computer Science A. Learning programming mostly at home since the onset of the pandemic, his deep interest in Computer Science and/or Software Engineering stems from such captivating ability to create products that he or others could utilize. Recognizing the importance of instilling technological awareness in young minds from an early stage, Ian decided to join OpenBrackets to help young minds nurture familiarity with the digital sphere. Besides programming, Ian is also an accomplished violinist and a member of the San Francisco Symphony Youth Orchestra. You can learn more about him by visiting his website.
-  linkedin: ian.png
-  website: https://iancheung.dev
+  image: ian.png
+  linkedin: https://iancheung.dev
 - name: Joseph Barrows
   description: Joseph Barrows is a senior at Ingraham High School. He has experience in Python and Swift and is familiar with HTML and CSS through taking various programming courses in school. Over the past few years he has also created numerous mobile games for the IOS app store. In his free time, Joseph loves to play soccer. He has also come to love the ability to build things through programming, which is why he is keen on helping other kids learn how to code.
   image: joseph.jpg
