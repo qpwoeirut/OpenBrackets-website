@@ -24,8 +24,12 @@ navbarHighlight: about
                     <h4 class="card-title">{{ item.name }}</h4>
                     <p class="card-text">{{ item.description }}</p>
                     {% if item.linkedin %}
-                    <a href="{{ item.linkedin }}" class="btn btn-outline-secondary"
-                       target="_blank">LinkedIn </a>
+                    {% if item.name = " Ian Chueng" %}
+                            <a href="{{ item.linkedin }}" class="btn btn-outline-secondary"
+                               target="_blank">Website </a>
+                        {% endif %}
+                         <a href="{{ item.linkedin }}" class="btn btn-outline-secondary"
+                               target="_blank">Linkedin </a>
                     {% endif %}
                 </div>
             </div>
@@ -45,8 +49,12 @@ navbarHighlight: about
                     <h4 class="card-title">{{ item.name }}</h4>
                     <p class="card-text">{{ item.description }}</p>
                     {% if item.linkedin %}
-                        <a href="{{ item.linkedin }}" class="btn btn-outline-secondary"
-                           target="_blank">LinkedIn </a>
+                        {% if item.name = " Ian Chueng" %}
+                            <a href="{{ item.linkedin }}" class="btn btn-outline-secondary"
+                               target="_blank">Website </a>
+                        {% endif %}
+                         <a href="{{ item.linkedin }}" class="btn btn-outline-secondary"
+                               target="_blank">Linkedin </a>
                     {% endif %}
                 </div>
             </div>
