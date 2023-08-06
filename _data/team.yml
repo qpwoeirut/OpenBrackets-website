@@ -26,6 +26,10 @@
   description: Ayush Agarwal is a Freshman at Gunn High School. He generally codes in Java, HTML, CSS, and JavaScript. He is mostly self taught using projects to help guide learning which have solidified his understanding in these languages. During summer break, he created a sudoku puzzle app using Java. He decided to join OpenBrackets this fall because he believes that all kids should have equal access to careers and knowledge in computer science.
   image: ayush.png
   linkedin:
+- name: Ian Cheung
+  description: Ian Cheung is presently a Junior at Gunn High School. He possesses experience in programming languages like HTML, CSS, JavaScript, Java, and Python and has taken AP Computer Science A. Learning programming mostly at home since the onset of the pandemic, his deep interest in Computer Science and/or Software Engineering stems from such captivating ability to create products that he or others could utilize. Recognizing the importance of instilling technological awareness in young minds from an early stage, Ian decided to join OpenBrackets to help young minds nurture familiarity with the digital sphere. Besides programming, Ian is also an accomplished violinist and a member of the San Francisco Symphony Youth Orchestra. You can learn more about him by visiting his website.
+  image: ian.png
+  Website: https://iancheung.dev
 - name: Joseph Barrows
   description: Joseph Barrows is a senior at Ingraham High School. He has experience in Python and Swift and is familiar with HTML and CSS through taking various programming courses in school. Over the past few years he has also created numerous mobile games for the IOS app store. In his free time, Joseph loves to play soccer. He has also come to love the ability to build things through programming, which is why he is keen on helping other kids learn how to code.
   image: joseph.jpg
