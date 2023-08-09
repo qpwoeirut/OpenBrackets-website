@@ -63,9 +63,9 @@
   image: sean.png
   linkedin:
 - name: Stanley Zhong
-  description: Stanley Zhong is a junior at Gunn High School. He is well-versed in C++ and Python, and is also familiar with Java, HTML, CSS, JavaScript, COBOL, and Scheme. Most of his knowledge is self-taught through collaborative projects. Last summer he built a rudimentary website of games with one of his friends. He is also ranked in the top 100 in the US on the competitive programming website Codeforces. As someone who was lucky enough to be introduced to programming at a young age, Stanley hopes to help other kids learn and benefit from programming.
+  description: Stanley Zhong is a graduate of Gunn High School. He is well-versed in C++, Python, and Kotlin, and is also familiar with Java, HTML, CSS, JavaScript, COBOL, and Scheme. Most of his knowledge is self-taught through collaborative projects. He founded a startup called RabbitSign, which offers unlimited free e-signing. He is also ranked in the top 100 in the US on the competitive programming website Codeforces. As someone who was lucky enough to be introduced to programming at a young age, Stanley hopes to help other kids learn and benefit from programming.
   image: stanley.jpg
-  linkedin:
+  linkedin: https://www.linkedin.com/in/stanley-zhong-277440186/
 - name: Thomas McGall
   description: Thomas McGall is a graduate of Palo Alto High School. He has experience with Python, Java, and JavaScript. He was the Lead Director of PalyHacks, a Palo Alto based hackathon, and has collaborated with Palantir, Balsamiq, and other industry leaders to bring educational opportunities to high schoolers in the Bay Area. Thomas believes in learning through creation and wants to help other students discover computer science using this philosophy.
   image: thomas.jpg
