@@ -14,10 +14,6 @@
   description: "Nan Zhong is currently a Software Engineering Manager at Google. Previously he co-founded two startups, created the #1 ranked communication app on Android (featured by Fortune and Amazing Android Apps for Dummies), and raised $10M in venture funding. Before that, he led the team that built AWS's Elastic Load Balancing service. He holds a Master's degree in Computer Science from the University of Illinois at Urbana-Champaign. He is a passionate believer of using education to promote equality."
   image: nan.jpg
   linkedin: https://www.linkedin.com/in/nanzhong/
-- name: Darach Miller
-  description: "Darach works as a researcher at SLAC/Stanford. He develops bioinformatic pipelines and wetbench methods for projects in both systems and synthetic biology. He's previously trained and worked as a researcher and teacher at UC Davis, New York University, the Davis Bike Collective, Software Carpentry, and recently with the San Jose Bike Clinic. Darach strongly believes that equitable access to developing an empowering understanding of computer programming is key to holding tech accountable to the public good."
-  image: darach.jpg
-  linkedin:
 - name: Rachel Gollub
   description: Rachel Gollub is Vice President of Benefitter Technology at UnitedHealthcare. She has founded a number of startups (including co-founding Benefitter), and has also worked in engineering at Stanford University and Sun Microsystems. She has degrees in computer science and Russian literature from Caltech, and a M.A. in military history from American Military University. Rachel is an advocate for inclusion and equity in education and hiring.
   image: rachel.jpg
