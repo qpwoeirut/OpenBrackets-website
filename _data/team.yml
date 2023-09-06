@@ -54,6 +54,10 @@
   description: Rohan Kumar is a senior at Ingraham High School, where he has taken Java 1 and IB Computer Science. Outside of school, Rohan has learned Python and SQL, and is currently learning Go on Codecademy. As a programmer, Rohan enjoys building games in Java and has previously programmed his own versions of Yahtzee, Hangman, and a Roman Numerals calculator. Along with OpenBrackets, Rohan volunteers for an organization called Team Read. He also enjoys playing soccer, programming, and playing the piano in his free time.
   image: rohan.png
   linkedin:
+- name: Rakendu Ruta
+  description: Rakendu Ruta is a student at Monta Vista High School. He has taken AP Computer Science A and Principles and is well-versed in Java, Python, Javascript, HTML, and CSS and is learning about Ruby. Outside of computer science-related work, Rakendu enjoys recreational archery and drawing. He has also been playing the piano for 14 years and continues to pursue this interest. He decided to join OpenBrackets because he belives in the meaning behind the organization and understands the importance of giving back to the community. Through this process, he has grown more in tune with his community and social issues regarding computer science in the Bay Area.
+  image: rakendu.PNG
+  linkedin:
 - name: Seth Johnson
   description: Seth Johnson is a senior at Ingraham High School. He has taken AP Computer Science and IB Computer Science. When it comes to CS, he is most interested in cyber security and software development. Outside of computer science related service, he was previously a volunteer at a food bank. In his free time, he really enjoys playing sports, watching sports, and listening to way too much music. He decided to join OpenBrackets because he believes in the importance of direct service when it comes to making a difference in one's community.
   image: seth.png
