@@ -1,13 +1,13 @@
-- name: Aidan Goeschel
+- name: Aidan Goeschel (Alumni)
   description: Aidan Goeschel is a graduate of Ingraham High School. He has experience in Java and Python from taking AP computer science as well as an intro to computer science course. In his free time, Aidan enjoys playing guitar, golfing for fun, and competing on Ingraham’s own golf team. He is very excited to share the joy of programming by joining OpenBrackets as a teacher this fall.
   image: aidan.png
   linkedin:
-- name: Aimon Benfield-Chand
+- name: Aimon Benfield-Chand [Alumni]
   description: Aimon is a graduate of Ingraham High School and a current freshman and computer science major at the University of Washington. Within CS, Aimon is most interested in Artificial Intelligence and Deep Learning, especially when applied to music and the arts. He has also completed two data science summer internships with DigiSignals Inc., where he helped report on affiliate marketing patterns and developed a system to capture trends in Name, Image, and Likeness data from across NCAA Athletics. Prior to joining OpenBrackets, Aimon organized a Covid-relief meal service for elderly and immunocompromised community members. In his free time, Aimon enjoys playing and listening to music, tossing a disc, and cooking.
   image: aimon.png
   linkedin: https://www.linkedin.com/in/aimon-benfield-chand-3b7b90208/
-- name: Alina Lari
-  description: Alina Lari is a Senior at Gunn High School. She enjoys learning new things and coding in different languages such as Python and Java. She is passionate about social justice and bringing change and equal opportunities to the world of computer science. Alina has been an active member of Major League Hacking for +5 years and has loved to compete in various hacking competitions ever since. In her free time, she enjoys playing basketball and practicing the electric guitar. Through OpenBrackets, Alina hopes to expand the computer science community helping others share the joy of coding.
+- name: Alina Lari 
+  description: Alina Lari is a graduate of Gunn High School. She enjoys learning new things and coding in different languages such as Python and Java. She is passionate about social justice and bringing change and equal opportunities to the world of computer science. Alina has been an active member of Major League Hacking for +5 years and has loved to compete in various hacking competitions ever since. In her free time, she enjoys playing basketball and practicing the electric guitar. Through OpenBrackets, Alina hopes to expand the computer science community helping others share the joy of coding.
   image: alina.jpg
   linkedin:
 - name: Andrew Li
