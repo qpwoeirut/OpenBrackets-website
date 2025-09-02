@@ -42,6 +42,10 @@
   description: Joseph Barrows is a graduate of Ingraham High School. He has experience in Python and Swift and is familiar with HTML and CSS through taking various programming courses in school. Over the past few years he has also created numerous mobile games for the IOS app store. In his free time, Joseph loves to play soccer. He has also come to love the ability to build things through programming, which is why he is keen on helping other kids learn how to code.
   image: joseph.jpg
   linkedin:
+- name: Joyce Wong
+  description: Joyce is a senior at Gunn High School. She has taken AP Computer Science A and has proficiency in Java, C++, and GoLang. She is most interested in the intersection between CS and Biology. She decided to join OpenBrackets to share her passion for CS as a curriculum developer and teacher and to become more involved within her community. In her free time, she loves to read, spend quality time with friends and family, and exercise.
+  image: joyce.png
+  linkedin:
 - name: Katherine Cheng (Alumni)
   description: Katherine Cheng is a gaduate of New York University studying Finance and Data Science. She is from the Bay Area and a graduate of Palo Alto High School. She was drawn to OpenBrackets' mission of bringing technology to underserved communities through hands-on teaching and an engaging curriculum. In her free time, Katherine enjoys running, exploring cafes in the city, and following the NBA.  
   image: katiecheng.JPG
@@ -94,3 +98,7 @@
   description: Trisha Razdan is a graduate of Palo Alto High School. She has experience in Java, Ruby, and Python from taking AP Computer Science in school, as well as other computer science courses previously. Last year, she created a website for the LEMO Foundation's Playmakers initiative to allow for outside sponsorship to support more kids. In her free time, she plays volleyball and binges The Office. Trisha has been around tech her whole life and hopes to bring that exposure to more kids from the Bay.
   image: trisha.jpg
   linkedin: https://www.linkedin.com/in/trisha-razdan-8023881b0/
+- name: Yuval Rvilin
+  description: Yuval Rvilin is a senior at Gunn High School who is currently the secretary and treasurer of Open Brackets. He took classes such as AP computer science but learned most of his coding from programming on his own. He is proficient in Java, JavaScript, HTML, CSS, scheme, and SQL. Outside of coding Yuval is a math tutor and a distance runner. He is a part of Gunn's Cross Country and Track teams.
+  image: yuval.jpg
+  linkedin: 
