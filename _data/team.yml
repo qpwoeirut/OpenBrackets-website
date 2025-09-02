@@ -54,6 +54,10 @@
   description: Kevin is a graduate of Henry M. Gunn High School in the Bay Area. He enjoys solving practical and theoretical challenges using his programming skills. He is experienced in Java, Python, MATLAB, and C++. He had applied his skills at his summer internships and extracurricular projects. Within CS, Kevin has most interests in Quantum Computing and Mixed Reality. Before joining OpenBrackets, Kevin has taught programming at his school and StreetsCode Academy. Aware of the digital divide in the Bay Area, Kevin joined OpenBrackets and is determined to use his experience in programming and teaching to help underserved students in marginalized communities.
   image: tse_kai_chan.jpg
   linkedin: https://www.linkedin.com/in/tsekaichan/
+- name: Margaret Wu
+  description: Maggie is a current Senior at Wilcox High School in Santa Clara. She's taken coding classes for the past three years at school, including APCSP and APCSA. She's most comfortable with Java, Python, and HTML. Currently, she's working on a website for her friend who's publishing a book. This is her third year with Open Brackets and is leading the development of a new curriculum: Java. Outside of coding, she's the Senior Class President of her school and is the co-founder of the Taiwanese Student Association. In her free time, she enjoys dancing and being in the kitchen.
+  image: maggie.png
+  linkedin: 
 - name: Matthew Grupenhoff (Alumni)
   description: Matthew Grupenhoff is a graduate of Gunn High School. He typically uses Python, C, and Assembly for most of his recent projects, and also knows Javascript, HTML/CSS, Java, and Scheme. He is a fan of security and cryptography and enjoys looking for security holes in software and exploring dark corners of cryptography. Near the beginning of the COVID-19 pandemic, he began teaching programming to his cousin over video conference, and loves being able to reach a wider group of students with OpenBrackets.
   image: matthew.jpg
@@ -61,10 +65,6 @@
 - name: Mizna Saifudeen (Alumni)
   description: Mizna Saifudeen is a graduate of Milpitas High School who began coding in middle school. Since then, she has created various projects and joined programs where she gained experience in C, Java, and Javascript. In her free time, she enjoys playing basketball and reading. She joined OpenBrackets because of their dedication to providing equal access to computer science education, and she hopes to use her knowledge to help students find their passions within this field.
   image: mizna.jpg
-  linkedin:
-- name: Maggie Wu
-  description: Maggie is a Junior at Wilcox High School, and she's currently taking APCSA and took APCSP last year. This is her second year with OpenBrackets, and she is the current president. Previously, she helped out with a project with her school's Girls Who Code club, teaching kids in Uganda the basics of Python and the concepts of UI and UX. She is most familiar with Java and Python, but she's learned HTML and CSS before. Outside of coding, she's on Junior Class Council, outreach officer of the Ambassador Program, along with being the co-president and co-founder of the Taiwanese Student Association at her school. She also loves to crochet and dance in her free time.
-  image: maggieedit.JPG
   linkedin:
 - name: Rohan Kumar (Alumni)
   description: Rohan Kumar is a graduate of Ingraham High School, where he has taken Java 1 and IB Computer Science. Outside of school, Rohan has learned Python and SQL, and is currently learning Go on Codecademy. As a programmer, Rohan enjoys building games in Java and has previously programmed his own versions of Yahtzee, Hangman, and a Roman Numerals calculator. Along with OpenBrackets, Rohan volunteers for an organization called Team Read. He also enjoys playing soccer, programming, and playing the piano in his free time.
