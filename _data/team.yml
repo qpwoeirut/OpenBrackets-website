@@ -1,7 +1,7 @@
 - name: Rakendu Ruta
   description: Rakendu Ruta is a graduate of Monta Vista High School. He has taken AP Computer Science A and Principles and is well-versed in Java, Python, and C and is learning about Ruby. Outside of computer science-related work, Rakendu enjoys recreational archery and drawing. He has also been playing the piano for 14 years and continues to pursue this interest. He decided to join OpenBrackets because he belives in the meaning behind the organization and understands the importance of giving back to the community. Through this process, he has grown more in tune with his community and social issues regarding computer science in the Bay Area.
   image: rakendu.PNG
-  linkedin:
+  linkedin: https://www.linkedin.com/in/rakenduruta/details/experience
 - name: Aidan Goeschel (Alumni)
   description: Aidan Goeschel is a graduate of Ingraham High School. He has experience in Java and Python from taking AP computer science as well as an intro to computer science course. In his free time, Aidan enjoys playing guitar, golfing for fun, and competing on Ingraham’s own golf team. He is very excited to share the joy of programming by joining OpenBrackets as a teacher this fall.
   image: aidan.png
