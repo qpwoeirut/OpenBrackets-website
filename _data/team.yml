@@ -26,6 +26,10 @@
   description: Ayush Agarwal is a gaduate of Gunn High School. He generally codes in Java, HTML, CSS, and JavaScript. He is mostly self taught using projects to help guide learning which have solidified his understanding in these languages. During summer break, he created a sudoku puzzle app using Java. He decided to join OpenBrackets this fall because he believes that all kids should have equal access to careers and knowledge in computer science.
   image: ayush.png
   linkedin:
+- name: Ben Liu
+  description: Ben is a senior at Wilcox High School. He has taken CIS courses at a local community college and is most comfortable working in JavaScript, Java, and Python. He is interested in how computer science can be applied to mechanical engineering. He joined OpenBrackets to gain experience in teaching and to learn how to explain technical ideas clearly. In his free time, he enjoys playing chess and drawing.
+  image: ben.png
+  linkedin:
 - name: Benjamin Liu (Alumni)
   description: Benjamin Liu is a gaduate of at Henry M. Gunn High School. He enjoys a wide variety of activities, from running and playing basketball to coding and practicing the piano during his leisure hours. He is proficient in the programming languages Python, Java, and C++, and has taken AP Computer Science A. Motivated by a passion for equitable education, Benjamin joined OpenBrackets to contribute to their mission. Inspired by their commitment to providing equal access to computer science education for all students, he aims to leverage his knowledge to make a positive impact within the realm of education and technology.
   image: benjamin.png
