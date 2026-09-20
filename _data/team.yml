@@ -66,6 +66,10 @@
   description: "Maggie is a current Senior at Wilcox High School in Santa Clara. She's taken coding classes for the past three years at school, including APCSP and APCSA. She's most comfortable with Java, Python, and HTML. Currently, she's working on a website for her friend who's publishing a book. This is her third year with Open Brackets and is leading the development of a new curriculum: Java. Outside of coding, she's the Senior Class President of her school and is the co-founder of the Taiwanese Student Association. In her free time, she enjoys dancing and being in the kitchen."
   image: maggie.png
   linkedin: 
+- name: Makayla Du
+  description: Makayla is a current junior at Eastside Preparatory School with a strong interest in computer science and technology. She has experience with Python, Java, HTML, and CSS and has completed college-level courses in computer science and data science. She joined OpenBrackets to share her passion for coding with younger students and help them build confidence through programming. Outside of coding, Makayla is a member of a competitive dance team and enjoys drinking bubble tea in her free time.
+  image: makayla.jpeg
+  linkedin: 
 - name: Matthew Grupenhoff (Alumni)
   description: Matthew Grupenhoff is a graduate of Gunn High School. He typically uses Python, C, and Assembly for most of his recent projects, and also knows Javascript, HTML/CSS, Java, and Scheme. He is a fan of security and cryptography and enjoys looking for security holes in software and exploring dark corners of cryptography. Near the beginning of the COVID-19 pandemic, he began teaching programming to his cousin over video conference, and loves being able to reach a wider group of students with OpenBrackets.
   image: matthew.jpg
