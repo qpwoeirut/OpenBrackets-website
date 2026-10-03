@@ -1,3 +1,11 @@
+- name: Erin Hoagland
+  description: Erin is a junior at Wilcox High School. She has worked in Python, Java, HTML, CSS and has taken AP computer science and math classes. She has made a few websites for varying projects. Erin decided to join OpenBrackets to meet people interested in simular majors as her and to expand the accessability of coding skills. Outside of coding, she has been swimming for 13 years and has played varsity water polo for 3 years. She is an officer in Filipino American Student Association and Literature Club and spends most of her time crocheting and creating patterns through trial and error.
+  image: erin.jpg
+  linkedlin: http://www.linkedin.com/in/erin-hoagland-764264404
+- name: Makayla Du 
+  description: Makayla is a junior at Eastside Preparatory School. She has experience in Python, Java, HTML, and CSS, and has taken computer science and data science college classes. She decided to join OpenBrackets to help younger kids learn about coding and share her passion for computer science with others. In her free time, Makayla is on a competitive dance team and enjoys reading.
+  image: makayla (2).jpg
+  linkedlin: 
 - name: Aidan Goeschel (Alumni)
   description: Aidan Goeschel is a graduate of Ingraham High School. He has experience in Java and Python from taking AP computer science as well as an intro to computer science course. In his free time, Aidan enjoys playing guitar, golfing for fun, and competing on Ingraham’s own golf team. He is very excited to share the joy of programming by joining OpenBrackets as a teacher this fall.
   image: aidan.png
@@ -26,7 +34,7 @@
   description: Ayush Agarwal is a gaduate of Gunn High School. He generally codes in Java, HTML, CSS, and JavaScript. He is mostly self taught using projects to help guide learning which have solidified his understanding in these languages. During summer break, he created a sudoku puzzle app using Java. He decided to join OpenBrackets this fall because he believes that all kids should have equal access to careers and knowledge in computer science.
   image: ayush.png
   linkedin:
-- name: Ben Liu
+- name: Ben Liu (Alumni)
   description: Ben is a senior at Wilcox High School. He has taken CIS courses at a local community college and is most comfortable working in JavaScript, Java, and Python. He is interested in how computer science can be applied to mechanical engineering. He joined OpenBrackets to gain experience in teaching and to learn how to explain technical ideas clearly. In his free time, he enjoys playing chess and drawing.
   image: ben.png
   linkedin:
@@ -46,7 +54,7 @@
   description: Joseph Barrows is a graduate of Ingraham High School. He has experience in Python and Swift and is familiar with HTML and CSS through taking various programming courses in school. Over the past few years he has also created numerous mobile games for the IOS app store. In his free time, Joseph loves to play soccer. He has also come to love the ability to build things through programming, which is why he is keen on helping other kids learn how to code.
   image: joseph.jpg
   linkedin:
-- name: Joyce Wong
+- name: Joyce Wong (Alumni)
   description: Joyce is a senior at Gunn High School. She has taken AP Computer Science A and has proficiency in Java, C++, and GoLang. She is most interested in the intersection between CS and Biology. She decided to join OpenBrackets to share her passion for CS as a curriculum developer and teacher and to become more involved within her community. In her free time, she loves to read, spend quality time with friends and family, and exercise.
   image: joyce2.png
   linkedin:
@@ -62,11 +70,7 @@
   description: Kevin is a graduate of Henry M. Gunn High School in the Bay Area. He enjoys solving practical and theoretical challenges using his programming skills. He is experienced in Java, Python, MATLAB, and C++. He had applied his skills at his summer internships and extracurricular projects. Within CS, Kevin has most interests in Quantum Computing and Mixed Reality. Before joining OpenBrackets, Kevin has taught programming at his school and StreetsCode Academy. Aware of the digital divide in the Bay Area, Kevin joined OpenBrackets and is determined to use his experience in programming and teaching to help underserved students in marginalized communities.
   image: tse_kai_chan.jpg
   linkedin: https://www.linkedin.com/in/tsekaichan/
-- name: Makayla Du 
-  description: Makayla is a current junior at Eastside Preparatory School. She has experience in Python, Java, HTML, and CSS, and has taken computer science and data science college classes. She decided to join OpenBrackets to help younger kids learn about coding and share her passion for computer science with others. In her free time, Makayla is on a competitive dance team and enjoys reading.
-  image: makayla (2).jpg
-  linkedin: 
-- name: Margaret Wu
+- name: Margaret Wu (Alumni)
   description: "Maggie is a current Senior at Wilcox High School in Santa Clara. She's taken coding classes for the past three years at school, including APCSP and APCSA. She's most comfortable with Java, Python, and HTML. Currently, she's working on a website for her friend who's publishing a book. This is her third year with Open Brackets and is leading the development of a new curriculum: Java. Outside of coding, she's the Senior Class President of her school and is the co-founder of the Taiwanese Student Association. In her free time, she enjoys dancing and being in the kitchen."
   image: maggie.png
   linkedin: 
@@ -82,11 +86,11 @@
   description: Rohan Kumar is a graduate of Ingraham High School, where he has taken Java 1 and IB Computer Science. Outside of school, Rohan has learned Python and SQL, and is currently learning Go on Codecademy. As a programmer, Rohan enjoys building games in Java and has previously programmed his own versions of Yahtzee, Hangman, and a Roman Numerals calculator. Along with OpenBrackets, Rohan volunteers for an organization called Team Read. He also enjoys playing soccer, programming, and playing the piano in his free time.
   image: rohan.png
   linkedin:
-- name: Rakendu Ruta
+- name: Rakendu Ruta (Alumni)
   description: Rakendu Ruta is a graduate of Monta Vista High School. He has taken AP Computer Science A and Principles and is well-versed in Java, Python, and C and is learning about Ruby. Outside of computer science-related work, Rakendu enjoys recreational archery and drawing. He has also been playing the piano for 14 years and continues to pursue this interest. He decided to join OpenBrackets because he belives in the meaning behind the organization and understands the importance of giving back to the community. Through this process, he has grown more in tune with his community and social issues regarding computer science in the Bay Area.
   image: rakendu.PNG
   linkedin: https://www.linkedin.com/in/rakenduruta/details/experience
-- name: Serena Dai
+- name: Serena Dai (Alumni)
   description: Serena Dai is currently a senior at Gunn High School. As a member of OpenBrackets, she has taught, participated in curriculum development, and managed outreach. Her coding interest started from Scratch in elementary school, and gradually grew through summer camps and courses, including AP Computer Science A. Through the years, she has gained experience in multiple programming languages, including Python and Java. In her free time, she enjoys playing and listening to music.
   image: serena.jpg
   linkedin:
@@ -110,7 +114,7 @@
   description: Trisha Razdan is a graduate of Palo Alto High School. She has experience in Java, Ruby, and Python from taking AP Computer Science in school, as well as other computer science courses previously. Last year, she created a website for the LEMO Foundation's Playmakers initiative to allow for outside sponsorship to support more kids. In her free time, she plays volleyball and binges The Office. Trisha has been around tech her whole life and hopes to bring that exposure to more kids from the Bay.
   image: trisha.jpg
   linkedin: https://www.linkedin.com/in/trisha-razdan-8023881b0/
-- name: Yuval Rvilin
+- name: Yuval Rvilin (Alumni)
   description: Yuval Rvilin is a senior at Gunn High School who is currently the secretary and treasurer of Open Brackets. He took classes such as AP computer science but learned most of his coding from programming on his own. He is proficient in Java, JavaScript, HTML, CSS, scheme, and SQL. Outside of coding Yuval is a math tutor and a distance runner. He is a part of Gunn's Cross Country and Track teams.
   image: yuval.png
   linkedin: 
